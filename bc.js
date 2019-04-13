@@ -29,4 +29,4 @@ client.user.setStatus("dnd")
 
 
 
-client.login("توكن البوت");
+client.login("MzkxNTQwNzIwNTg4MjkyMDk2.XLHB-A.uOpErkVyOZC9tJPviteaoznafxY");
